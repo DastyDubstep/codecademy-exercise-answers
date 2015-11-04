@@ -1,11 +1,12 @@
+# Define your method below!
 def greeting
-    puts "greeting"
+    puts "word"
 end
 
+
+
+
+# Define your method above this line.
 
 greeting # Ignore this for now. We'll explain
-         # it in the next exercise!def array_of_10
-  puts (1..10).to_a
-end
-
-array_of_10
+    # it in the next exercise!
